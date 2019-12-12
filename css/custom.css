@@ -1,0 +1,13 @@
+.forms{
+	background-image: url(../images/formbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: color;
+	background-color: #0000009e;
+}
+footer{
+	background-image: url(../images/footer2.jpg);
+	background-blend-mode: color;
+	background-size: cover;
+	background-color: #0000009c;
+}
